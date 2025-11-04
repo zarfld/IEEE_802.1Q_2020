@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IEEE 802.1Q-2020 Helper Library
 
 Lightweight C++ helpers for IEEE 802.1Q-2020 concepts used by media/AVB stacks: MAC utilities, VLAN tags (PCP/DEI/VID), stacked VLANs (Q-in-Q), and simple PCP→traffic-class mapping.
@@ -124,3 +125,7 @@ auto tag = FilteringUtils::make_egress_tag(eg, /*pcp*/5);
 
 ## Version
 Library version 1.0.0, namespace `IEEE::_802_1Q::_2020`.
+=======
+# IEEE_802.1Q_2020
+IEEE 802.1Q-2020 Virtual LANs and Quality of Service Implementation - Standards-compliant pure protocol implementation
+>>>>>>> c4f87ce0d6a6c1494b55cb8c7add48f87f787dd2
